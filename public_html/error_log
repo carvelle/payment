@@ -1,0 +1,68 @@
+[01-May-2018 15:21:16 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Dashboard.php on line 83
+[01-May-2018 15:29:39 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Dashboard.php on line 83
+[01-May-2018 15:40:12 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Dashboard.php on line 83
+[01-May-2018 15:46:52 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Communicate.php on line 55
+[01-May-2018 15:56:54 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Dashboard.php on line 83
+[01-May-2018 15:58:13 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Dashboard.php on line 83
+[01-May-2018 17:00:16 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/africbaa/app/Views/Dashboard/index.php on line 214
+[01-May-2018 17:02:08 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/africbaa/app/Views/Dashboard/index.php on line 240
+[01-May-2018 17:05:31 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/africbaa/app/Views/Dashboard/index.php on line 248
+[01-May-2018 16:06:14 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Communicate.php on line 55
+[01-May-2018 16:06:42 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Communicate.php on line 55
+[01-May-2018 16:09:26 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Approve.php on line 54
+[01-May-2018 16:11:28 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Approve.php on line 54
+[01-May-2018 17:12:29 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Views/Approve/index.php on line 132
+[01-May-2018 17:14:13 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/africbaa/app/Views/Approve/index.php on line 186
+[01-May-2018 17:17:04 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/africbaa/app/Views/Approve/index.php on line 241
+[01-May-2018 16:19:07 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Play.php on line 47
+[01-May-2018 17:20:23 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Views/Play/index.php on line 117
+[01-May-2018 16:21:55 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Pay.php on line 48
+[01-May-2018 17:23:07 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Views/Pay/index.php on line 131
+[01-May-2018 17:23:56 Africa/Johannesburg] PHP Fatal error:  Class 'App\Helpers\SSP' not found in /home/africbaa/app/Controllers/Datatables.php on line 95
+[01-May-2018 17:27:25 Africa/Johannesburg] PHP Fatal error:  Class 'App\Helpers\SSP' not found in /home/africbaa/app/Controllers/Datatables.php on line 95
+[01-May-2018 17:28:09 Africa/Johannesburg] PHP Fatal error:  Class 'App\Helpers\SSP' not found in /home/africbaa/app/Controllers/Datatables.php on line 95
+[01-May-2018 17:32:11 Africa/Johannesburg] PHP Fatal error:  Class 'App\Helpers\SSP' not found in /home/africbaa/app/Controllers/Datatables.php on line 95
+[01-May-2018 17:34:29 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Views/Activate/index.php on line 131
+[01-May-2018 17:35:49 Africa/Johannesburg] PHP Fatal error:  Class 'App\Helpers\SSP' not found in /home/africbaa/app/Controllers/Datatables.php on line 150
+[01-May-2018 18:41:29 Africa/Johannesburg] PHP Fatal error:  Call to undefined function App\Controllers\php_info() in /home/africbaa/app/Controllers/Communicate.php on line 190
+[03-May-2018 17:44:07 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Profile.php on line 50
+[03-May-2018 18:46:12 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Views/Profile/index.php on line 120
+[04-May-2018 18:32:34 Africa/Johannesburg] PHP Fatal error:  Class 'App\Controllers\Redirect' not found in /home/africbaa/app/Controllers/Profile.php on line 43
+[04-May-2018 17:38:24 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 17:38:25 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 17:39:48 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 17:39:50 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 20:49:28 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/africbaa/app/Controllers/Registration.php on line 59
+[04-May-2018 21:50:25 Africa/Johannesburg] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: registerModel' in /home/africbaa/app/Controllers/Registration.php:50
+Stack trace:
+#0 /home/africbaa/app/Controllers/Registration.php(50): Nova\Exception\Handler->handleError(8, 'Undefined varia...', '/home/africbaa/...', 50, Array)
+#1 [internal function]: App\Controllers\Registration->addNewUser()
+#2 /home/africbaa/vendor/nova-framework/system/src/Routing/Controller.php(245): call_user_func_array(Array, Array)
+#3 /home/africbaa/vendor/nova-framework/system/src/Routing/ControllerDispatcher.php(91): Nova\Routing\Controller->callAction('addNewUser', Array)
+#4 /home/africbaa/vendor/nova-framework/system/src/Routing/ControllerDispatcher.php(60): Nova\Routing\ControllerDispatcher->call(Object(App\Controllers\Registration), Object(Nova\Routing\Route), 'addNewUser')
+#5 /home/africbaa/vendor/nova-framework/system/src/Routing/Route.php(218): Nova\Routing\ControllerDispatcher->dispatch(Object(Nova\Routing\Route), Object(Nova\Http\Request), 'App\\Contr in /home/africbaa/app/Controllers/Registration.php on line 50
+[04-May-2018 21:50:25 Africa/Johannesburg] PHP Fatal error:  Cannot access empty property in /home/africbaa/app/Controllers/Registration.php on line 50
+[04-May-2018 21:38:38 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 21:38:39 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 21:38:40 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 21:38:40 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 21:38:41 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[04-May-2018 21:38:41 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[05-May-2018 15:22:17 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Controllers/Detail.php on line 51
+[05-May-2018 16:24:24 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '[' in /home/africbaa/app/Views/Detail/index.php on line 119
+[05-May-2018 22:47:19 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '$url' (T_VARIABLE) in /home/africbaa/app/Controllers/Communicate.php on line 109
+[05-May-2018 23:20:18 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/africbaa/app/Controllers/Pay.php on line 36
+[05-May-2018 23:56:34 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/africbaa/app/Controllers/Pay.php on line 75
+[05-May-2018 23:57:45 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/africbaa/app/Controllers/Pay.php on line 75
+[05-May-2018 23:58:21 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/africbaa/app/Controllers/Pay.php on line 75
+[06-May-2018 11:23:30 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/africbaa/app/Controllers/Pay.php on line 88
+[06-May-2018 11:28:09 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/africbaa/app/Controllers/Pay.php on line 90
+[06-May-2018 12:35:41 Europe/London] PHP Fatal error:  Cannot redeclare App\Controllers\Login::adminLogin() in /home/africbaa/app/Controllers/Login.php on line 92
+[06-May-2018 12:36:55 Europe/London] PHP Parse error:  syntax error, unexpected '$userData' (T_VARIABLE) in /home/africbaa/app/Controllers/Login.php on line 109
+[06-May-2018 12:58:40 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/africbaa/app/Controllers/Login.php on line 99
+[06-May-2018 13:00:45 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/africbaa/app/Controllers/Login.php on line 99
+[06-May-2018 13:10:53 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/africbaa/app/Controllers/Login.php on line 115
+[06-May-2018 13:16:42 Europe/London] PHP Parse error:  syntax error, unexpected '{' in /home/africbaa/app/Controllers/Login.php on line 110
+[06-May-2018 22:33:23 Africa/Johannesburg] PHP Fatal error:  Class 'App\Controllers\Redirect' not found in /home/africbaa/app/Controllers/Profile.php on line 43
+[06-May-2018 23:00:24 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'www' (T_STRING) in /home/africbaa/app/Controllers/Communicate.php on line 145
+[06-May-2018 23:22:13 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'www' (T_STRING) in /home/africbaa/app/Controllers/Communicate.php on line 145
